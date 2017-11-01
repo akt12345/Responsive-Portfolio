@@ -291,6 +291,10 @@ input[type=submit] {
       margin-left: 10px;
       padding-right: 30px;
      }
+
+     .work{
+      width: 47%;
+     } 
  
 }
 
@@ -332,6 +336,10 @@ input[type=submit] {
      padding: none;
     }
     
+
+     .work{
+      width: 100%;
+     } 
 
 }
 
